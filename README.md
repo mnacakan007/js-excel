@@ -1,1 +1,1 @@
-# js-exel
+# js-excel
